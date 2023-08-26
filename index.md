@@ -4,3 +4,4 @@
 #### This is the forth header.
 ##### This is the fifth header.
 ###### This is the six header.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
